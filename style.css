@@ -1,9 +1,10 @@
 body {
   font-family: Arial, sans-serif;
   background-color: white;
-  color: black;
+  color: dark gray;
   padding: 20px;
 }
+
 
 h1 {
 
@@ -15,7 +16,7 @@ h1 {
 }
 
 h2 {
-  color: black;
+  color: gray;
   font-size: 24px;
   margin-bottom: 20px;
   text-align: center;
